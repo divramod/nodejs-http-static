@@ -1,0 +1,9 @@
+{
+  "name": "server-static",
+  "version": "0.0.1",
+  "description": "Static File Server",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
